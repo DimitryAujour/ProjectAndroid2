@@ -10,7 +10,7 @@
         android:id="@+id/logoImageView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/logo" <!-- Replace with your logo file -->
-    android:layout_centerInParent="true"/>
+        android:src="@drawable/fox"
+        android:layout_centerInParent="true"/>
 
 </RelativeLayout>
